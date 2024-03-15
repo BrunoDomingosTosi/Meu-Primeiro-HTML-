@@ -38,13 +38,6 @@
             <li>Me especializar em alguma linguagem de back-end</li>
         </ul>
 
-
-
-
-
-
-        
-
         <h5>ficamos por aqui!</h5>
 
         <h6>Muito obrigado!</h6>
